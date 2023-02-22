@@ -16,5 +16,5 @@ $ python3 fshare.py
 ```
 
 # Development
-- Get an appkey and user-agent at [Fshare](https://www.fshare.vn/api-doc#/File%20manager/get-user-file-folder-list-v2)
+- Get an appkey and user-agent at [Fshare](https://www.fshare.vn/api-doc)
 - Replace the appkey and user-agent in `fshare.py` line 10 and 11
